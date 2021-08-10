@@ -30,51 +30,53 @@ Here are some ideas to get you started:
   <table>
     <tbody>
       <tr valign="top">
-        <td width="7%" align="center">
-          <img height="40px" src="https://cdn.svgporn.com/logos/mysql.svg">
-        </td>
-        <td width="7%" align="center">
+        <td width="15%" align="center">
           <img height="40px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://pandas.pydata.org/static/img/pandas.svg">
-        </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://numpy.org/images/logos/numpy.svg">
-        </td>
-        <td width="7%" align="center">
-         <img height="40px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
-        </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-        </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="7%" align="center">
-          <img height="40px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
-        </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-        </td>
-        <td width="7%" align="center">
+        <td width="15%" align="center">
           <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jupyter/jupyter-original-wordmark.svg">
         </td>
-        <td width="7%" align="center">
+        <td width="15%" align="center">
+          <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://numpy.org/images/logos/numpy.svg">
+        </td>
+        <td width="15%" align="center">
+         <img height="40px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="15%" align="center">
+          <img height="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://pandas.pydata.org/static/img/pandas.svg">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://cdn.svgporn.com/logos/mysql.svg">
+    </tr>      
+    <tr valign="top">          
+        </td>
+        <td width="15%" align="center">
           <img height="40px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
         </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        </td>
-        <td width="7%" align="center">
-          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        </td>
-        <td width="7%" align="center">
+        <td width="15%" align="center">
           <img height="40px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
         </td>
-        <td width="7%" align="center">
+        <td width="15%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        </td>
+        <td width="15%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </td>
+        <td width="15%" align="center">
           <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </td>
       </tr>
