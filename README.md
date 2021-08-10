@@ -27,23 +27,61 @@ Here are some ideas to get you started:
 
 ## Tools
 <div style="display: inline_block", align = 'center'><br>
-  <img align="center" alt="EGO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="EGO-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="EGO-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="EGO-mysql" height="30" width="40" src="https://cdn.svgporn.com/logos/mysql.svg">
-  <img align="center" alt="EGO-numpy" height="30" width="40" src="https://numpy.org/images/logos/numpy.svg">
-  <img align="center" alt="EGO-matplotlib" height="30" width="40" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
-  <img align="center" alt="EGO-seaborn" height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-  <img align="center" alt="EGO-scikit-learn" height="30" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
-  <img align="center" alt="EGO-scipy" height="40" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
-  <img align="center" alt="EGO-powerBI" height="30" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
-  <img align="center" alt="EGO-heroku" height="40" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-  
-  <img align="center" alt="EGO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EGO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="EGO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <table>
+    <tbody>
+      <tr valign="top">
+        <td width="7%" align="center">
+          <img height="40px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://cdn.svgporn.com/logos/python.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://pandas.pydata.org/static/img/pandas.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://numpy.org/images/logos/numpy.svg">
+        </td>
+        <td width="7%" align="center">
+         <img height="40px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="7%" align="center">
+          <img height="40px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jupyter/jupyter-original-wordmark.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+        </td>
+        <td width="7%" align="center">
+          <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
+  
 ## Talk to me...
   <div style="display: inline_block"><br>
   <a href = "mailto:eron.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
