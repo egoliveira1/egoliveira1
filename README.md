@@ -92,6 +92,18 @@ Here are some ideas to get you started:
 </div>
   
 ## Projects
+### [Classification for Cross Sell](https://github.com/egoliveira1/CrossSellProject)
+
+#### Problem:
+The company provides health insurance to its clients, and the product team is looking into the possibility of offering clients a new product: car insurance.
+The insurer surveyed its current health insurance customers, and all customers expressed interest or not in buying car insurance.
+The product team selected 127,000 new customers who did not respond to the survey to receive the offer of car insurance, however, the team has a limit of 20,000 contacts to make.
+
+#### Solution:
+In this context, it is necessary to build a solution that indicates whether the customer will be interested in car insurance or not. Based on the solution, the sales team wants to prioritize the people most interested in the new product and thus optimize the campaign by only making contacts with the customers most likely to make the purchase. Classification algorithms were used and a score was generated for each customer. The final product, besides being available on a remote server, was also applied in a spreadsheet, where the team can make classifications on a smaller scale or simulate customer profiles.
+
+Project repo: https://github.com/egoliveira1/CrossSellProject
+
 ### [Forecasting sales volume for Rossmann stores](https://github.com/egoliveira1/RossmannProject)
 
 #### Problem:
