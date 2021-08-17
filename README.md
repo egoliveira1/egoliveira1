@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </div>
   
 ## Projects
-### [Classification for Cross Sell](https://github.com/egoliveira1/CrossSellProject)
+### [Insurance Cross Sell](https://github.com/egoliveira1/CrossSellProject)
 
 #### Problem:
 The company provides health insurance to its clients, and the product team is looking into the possibility of offering clients a new product: car insurance.
