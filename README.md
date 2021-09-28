@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=egoliveira1)
-
 ### Hi there 👋
 
 ### I'm Eron Oliveira
@@ -115,3 +113,5 @@ The implementation of improvements in the pharmacy group's shops required well-s
 The solution aims to create an intelligent model that uses sales data from all stores and their main characteristics to forecast sales in a future period. A TelegramBot will be used to streamline and facilitate the delivery of information.
 
 Project repo: https://github.com/egoliveira1/RossmannProject
+
+![](https://komarev.com/ghpvc/?username=egoliveira1)
