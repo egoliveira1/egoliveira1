@@ -115,3 +115,4 @@ The solution aims to create an intelligent model that uses sales data from all s
 Project repo: https://github.com/egoliveira1/RossmannProject
 
 ![](https://komarev.com/ghpvc/?username=egoliveira1&label=PROFILE+VIEWS)
+
