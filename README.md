@@ -90,7 +90,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/erongomesdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=351919243762" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
-  
+![](https://komarev.com/ghpvc/?username=egoliveira1&label=PROFILE+VIEWS)
+
 ## Projects
 ### [Insurance Cross Sell](https://github.com/egoliveira1/CrossSellProject)
 
@@ -113,6 +114,4 @@ The implementation of improvements in the pharmacy group's shops required well-s
 The solution aims to create an intelligent model that uses sales data from all stores and their main characteristics to forecast sales in a future period. A TelegramBot will be used to streamline and facilitate the delivery of information.
 
 Project repo: https://github.com/egoliveira1/RossmannProject
-
-![](https://komarev.com/ghpvc/?username=egoliveira1&label=PROFILE+VIEWS)
 
