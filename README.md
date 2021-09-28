@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=egoliveira1)
+
 ### Hi there 👋
 
 ### I'm Eron Oliveira
