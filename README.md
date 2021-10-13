@@ -112,5 +112,5 @@ The implementation of improvements in the pharmacy group's shops required well-s
 #### Solution:
 The solution aims to create an intelligent model that uses sales data from all stores and their main characteristics to forecast sales in a future period. A TelegramBot will be used to streamline and facilitate the delivery of information.
 
-Project repo: https://github.com/egoliveira1/RossmannProject
+Project repo: https://github.com/egoliveira1/RossmannProject 
 
