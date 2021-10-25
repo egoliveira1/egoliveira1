@@ -92,6 +92,16 @@ Here are some ideas to get you started:
 </div>
 
 ## Projects
+### [SalesPricePredict](https://github.com/egoliveira1/SalesPricePredict)
+
+#### Problem:
+A Brazilian Company is planning to enter the US fashion market with an e-commerce business model called Star Jeans. The initial idea is to enter the market with only one product and for a specific audience, in this case, the product will be jeans for men. However, even with the entrance product and the audience defined, the company have no experience in this market and therefore do not know how to define price, the model of the pants, and the material to manufacture each piece.
+
+#### Solution:
+The solution is to research the main competitors to define which models exist, the composition of each piece, and the price of the products. To accomplish the task, a web scraping code was developed to extract, transform, and load (ETL) the information into a database. After the first load is done, the medians will be calculated and the results will be delivered through a Stramlit application.
+
+Project repo: https://github.com/egoliveira1/SalesPricePredict
+
 ### [Insurance Cross Sell](https://github.com/egoliveira1/CrossSellProject)
 
 #### Problem:
