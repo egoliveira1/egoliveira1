@@ -40,7 +40,7 @@ Here are some ideas to get you started:
           <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
         </td>
         <td width="15%" align="center">
-          <img height="40px" src="https://numpy.org/images/logos/numpy.svg">
+          <img height="40px" src="https://numpy.org/images/logo.svg">
         </td>
         <td width="15%" align="center">
          <img height="40px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
