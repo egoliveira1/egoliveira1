@@ -92,7 +92,18 @@ Here are some ideas to get you started:
 </div>
 
 ## Projects
-### [SalesPricePredict](https://github.com/egoliveira1/SalesPricePredict)
+
+### [- Sparkify - Data Modeling with Postgres](https://github.com/egoliveira1/Sparkify-PostgreSQL-Data-Modeling)
+
+#### Problem:
+A startup called Sparkify wants to analyze the data they have been collecting about songs and user activity on their new music streaming app. The company is interested in finding out what songs users are listening to. The analysts don't have a were to query the data that is in a directory of JSON records about user activity in the app, as well as a directory with JSON metadata about the songs in their app.
+
+#### Solution:
+I developed a solution using Python and SQL that collects and organizes client usage data and the application's song collection. I defined a star schema and the fact and dimension tables to receive the data. Finally, I wrote an ETL pipeline that transfers data from JSON files in two local directories to these tables in Postgres using Python and SQL.
+
+Project repo: https://github.com/egoliveira1/Sparkify-PostgreSQL-Data-Modeling
+
+### [- SalesPricePredict](https://github.com/egoliveira1/SalesPricePredict)
 
 #### Problem:
 A Brazilian Company is planning to enter the US fashion market with an e-commerce business model called Star Jeans. The initial idea is to enter the market with only one product and for a specific audience, in this case, the product will be jeans for men. However, even with the entrance product and the audience defined, the company have no experience in this market and therefore do not know how to define price, the model of the pants, and the material to manufacture each piece.
@@ -102,7 +113,7 @@ The solution is to research the main competitors to define which models exist, t
 
 Project repo: https://github.com/egoliveira1/SalesPricePredict
 
-### [Insurance Cross Sell](https://github.com/egoliveira1/CrossSellProject)
+### [- Insurance Cross Sell](https://github.com/egoliveira1/CrossSellProject)
 
 #### Problem:
 The company provides health insurance to its clients, and the product team is looking into the possibility of offering clients a new product: car insurance.
@@ -114,7 +125,7 @@ In this context, it is necessary to build a solution that indicates whether the 
 
 Project repo: https://github.com/egoliveira1/CrossSellProject
 
-### [Forecasting sales volume for Rossmann stores](https://github.com/egoliveira1/RossmannProject)
+### [- Forecasting sales volume for Rossmann stores](https://github.com/egoliveira1/RossmannProject)
 
 #### Problem:
 The implementation of improvements in the pharmacy group's shops required well-structured financial planning with a small margin for error, preventing the company from wasting money in implementing the initiatives.
