@@ -2,8 +2,7 @@
 
 ### I'm Eron Oliveira
 
-I have been working for 12 years in a Brazilian Federal Court. For the last six years involved in data analysis and project management areas.
-Currently, I am taking another step in my career and developing Data Science projects.
+For the last six years involved in data analysis and project management areas. Currently, I am taking another step in my career and developing Data Science anda Data Engineering projects.
 <!--
 **egoliveira1/egoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
