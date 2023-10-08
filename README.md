@@ -2,7 +2,7 @@
 
 ### I'm Eron Oliveira
 
-I have been involved in data analysis and project management for the last six years. I am taking another step in my career and developing Data Science and Data Engineering projects.
+I have been involved in data analysis and project management for the last nine years. I am taking another step in my career and developing Data Science and Data Engineering projects.
 <!--
 **egoliveira1/egoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
